@@ -1,13 +1,143 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<Boats>
-  <Boat>
-    <Name>Skærbæk</Name>
-    <Location>Ishøj</Location>
-    <Description>Båd med danske tegn: æ, ø, å, Æ, Ø, Å</Description>
-  </Boat>
-  <Boat>
-    <Name>Helsingør</Name>
-    <Location>Rødby</Location>
-    <Description>Test af encoding med flere danske bogstaver.</Description>
-  </Boat>
-</Boats>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inventory>
+  <Boats>
+    <Boat>
+      <ListingTitle>New Boat 002</ListingTitle>
+      <Status>Sold</Status>
+      <SoldComments>Sold Comment Test Empty Partnet</SoldComments>
+      <SoldPrice Currency="EUR">349001</SoldPrice>
+      <SoldDate>2022-10-22</SoldDate>
+      <DealerIdentifier>35640</DealerIdentifier>
+      <UniqueID>5f407650-89cd-4f51-a839-63ab1d3a1ce621372816321312</UniqueID>
+      <ItemType>boat</ItemType>
+      <Condition/>
+      <Category>deck</Category>
+      <Class>Power</Class>
+      <AdditionalClasses>
+        <AdditionalClass>
+          <AddClass>Bowrider</AddClass>
+        </AdditionalClass>
+        <AdditionalClass>
+          <AddClass>Cruisers</AddClass>
+        </AdditionalClass>
+      </AdditionalClasses>
+      <Year>2024</Year>
+      <MakeName>Bénéteau</MakeName>
+      <ModelName>Gran Turismo 36 OFG001</ModelName>
+      <Length unit="m">11.56</Length>
+      <Price Currency="EUR" Hide="true">349001</Price>
+      <TaxStatus>Paid</TaxStatus>
+      <FuelType/>
+      <HullType>Fiberglass</HullType>
+      <Builder>Bénéteau</Builder>
+      <Designer>Bénéteau</Designer>
+      <FuelTank/>
+      <EngineQuantity/>
+      <Engines>
+        <Engine>
+          <EngineModel>Volvo Penta</EngineModel>
+          <EngineHours>105</EngineHours>
+          <EngineQuantity>2</EngineQuantity>
+          <BoatEngineTypeCode>Stern Drive</BoatEngineTypeCode>
+          <HorsePower>300</HorsePower>
+          <Price Currency="">0</Price>
+        </Engine>
+      </Engines>
+      <Engines>
+        <Engine>
+          <EngineModel>Volvo Penta</EngineModel>
+          <EngineHours>105</EngineHours>
+          <EngineQuantity>2</EngineQuantity>
+          <BoatEngineTypeCode>Stern Drive</BoatEngineTypeCode>
+          <HorsePower>300</HorsePower>
+          <Price Currency="">0</Price>
+        </Engine>
+      </Engines>
+      <Engines>
+        <Engine>
+          <EngineModel>Yamaha</EngineModel>
+          <EngineHours>100</EngineHours>
+          <EngineQuantity>1</EngineQuantity>
+          <BoatEngineTypeCode>Stern Drive</BoatEngineTypeCode>
+          <HorsePower>250</HorsePower>
+          <Price Currency="">0</Price>
+        </Engine>
+      </Engines>
+      <Engines>
+        <Engine>
+          <EngineModel>Cummins</EngineModel>
+          <EngineHours>50</EngineHours>
+          <EngineQuantity>1</EngineQuantity>
+          <BoatEngineTypeCode>Outboard</BoatEngineTypeCode>
+          <HorsePower>20</HorsePower>
+          <Price Currency="">0</Price>
+        </Engine>
+      </Engines>
+      <HorsePower/>
+      <LOA unit="m">11.56</LOA>
+      <Beam unit="metres">3.51</Beam>
+      <BridgeClearance/>
+      <Draft/>
+      <Hin/>
+      <Displacement/>
+      <TotalCabins>2</TotalCabins>
+      <TotalBerths>4</TotalBerths>
+      <TotalHeads>1</TotalHeads>
+      <TotalPassengers/>
+      <PredefinedEquipment>
+        <item>REFRIGERATOR</item>
+        <item>CD_PLAYER</item>
+        <item>BIMINI_TOP</item>
+        <item>BATTERY_CHARGER</item>
+        <item>COMPASS</item>
+        <item>VHF</item>
+        <item>DEPTHSOUNDER</item>
+        <item>COCKPIT_SHOWER</item>
+        <item>COCKPIT_SHOWER</item>
+        <item>MANUAL_BILGE_PUMP</item>
+        <item>ELECTRIC_BILGE_PUMP</item>
+      </PredefinedEquipment>
+      <Phone>+49 666 666 66 66</Phone>
+      <Location>
+        <City>Ishøj</City>
+        <CountryCode>DE</CountryCode>
+        <ZipCode>61111</ZipCode>
+      </Location>
+      <Photos>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/12/16/7341216_20221026065809530_1_LARGE.jpg</URI>
+          <DisplayOrder>1</DisplayOrder>
+        </Photo>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/11/37/7341137_20221020035910592_1_LARGE.jpg</URI>
+          <DisplayOrder>2</DisplayOrder>
+        </Photo>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/88/74/5978874_20220927032323056_1_LARGE.jpg</URI>
+          <DisplayOrder>3</DisplayOrder>
+        </Photo>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/12/14/7341214_20221026065010096_1_LARGE.jpg</URI>
+          <DisplayOrder>4</DisplayOrder>
+        </Photo>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/91/46/149146_20230510041227640_0_LARGE.jpg</URI>
+          <DisplayOrder>5</DisplayOrder>
+        </Photo>
+        <Photo>
+          <URI>https://images.qa.boats.com/resize/1/68/25/146825_20230315085201826_0_LARGE.jpg</URI>
+          <DisplayOrder>6</DisplayOrder>
+        </Photo>
+      </Photos>
+      <Media>
+        <Media>
+          <uri>https://www.youtube.com/watch?v=7_Hti4ZbCDM</uri>
+          <title>Owner Video</title>
+          <description>Owner Video</description>
+          <subtype>Owner Video</subtype>
+          <type>Embedded Video</type>
+        </Media>
+      </Media>
+    </Boat>
+  </Boats>
+</Inventory>
