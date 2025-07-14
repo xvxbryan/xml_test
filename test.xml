@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Boats>
+  <Boat>
+    <Name>Skærbæk</Name>
+    <Location>Ishøj</Location>
+    <Description>Båd med danske tegn: æ, ø, å, Æ, Ø, Å</Description>
+  </Boat>
+  <Boat>
+    <Name>Helsingør</Name>
+    <Location>Rødby</Location>
+    <Description>Test af encoding med flere danske bogstaver.</Description>
+  </Boat>
+</Boats>
